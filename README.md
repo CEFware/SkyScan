@@ -13,3 +13,7 @@ http://skysentinel.nmsu.edu/allsky/docs/skysentinel_guide.pdf
 http://skysentinel.nmsu.edu/allsky/docs/allsky_camera_build_guide.pdf
 
 
+List of Installations and Equipment Configurations
+http://allsky.ca/NAdatabase.html#notes
+
+
