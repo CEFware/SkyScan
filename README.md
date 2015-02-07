@@ -12,3 +12,4 @@ http://skysentinel.nmsu.edu/allsky/docs/skysentinel_guide.pdf
 
 http://skysentinel.nmsu.edu/allsky/docs/allsky_camera_build_guide.pdf
 
+
