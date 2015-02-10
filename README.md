@@ -1,4 +1,4 @@
-# UltraSkyWatch
+# SkyScan
 
 Develop next generation Sky Sentinel all sky watch detection system.
 
