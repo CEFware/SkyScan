@@ -3,6 +3,7 @@
 Next generation all sky watch phenomena detection nework.
 
 SkyScan Objectives:   
+ 
 Provide an affordable open source hardware/software solution to detect, report and analyze earth sky phenomena.
  
 Explore integration with Emerging Technologies  
@@ -11,7 +12,7 @@ Ability to integrate diverse sensors (IR, thermal, magnetometor, spectrometers, 
 Autoguide pointing of cameras for increased magnification  
 IoT (Internet of Things) ready IPv6 connection  
 Alternative power sources (solar, wind, etc...)  
-Diverse decentralized data storage and computing (MaidSafe, BOINC, etc...) 
+Diverse decentralized data storage and computing (MaidSafe, BOINC, etc...)   
 Agregation and modeling of divergent big data sources  
 
 
