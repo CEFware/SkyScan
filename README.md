@@ -2,7 +2,7 @@
 
 Next generation all sky watch phenomena detection nework.
 
-SkyScan Objectives: 
+SkyScan Objectives:   
 Provide an affordable open source hardware/software solution to detect, report and analyze earth sky phenomena.
  
 Explore integration with Emerging Technologies  
