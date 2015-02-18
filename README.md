@@ -1,6 +1,6 @@
 # SkyScan
 
-A next generation sky phenomena detection nework. Providing an affordable open source hardware/software solution to detect, report and analyze earth sky phenomena.
+A next generation sky phenomena detection network. Providing an affordable open source hardware/software solution to detect, report and analyze earth sky phenomena.
 
 SkyScan Phase 1 Objectives, getting started:
 
