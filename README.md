@@ -47,7 +47,7 @@ Similar Projects in various stages of development/deployment
   
 https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs
   
-Project Sponsors:
+SkyScan Project Sponsors:
  
 http://www.floridaMUFON.org   
 http://ufocoin.co   
