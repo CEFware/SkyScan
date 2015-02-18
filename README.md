@@ -6,7 +6,7 @@ The Legacy System:
 
 Sandia National Laboratories developed an all sky camera system intended to monitor, track, and analyze atmospheric meteor events in order to provide a "ground-truth" database for assisting satellite operators in separating natural and man-made events and for instrument calibration tasks.
   
-The program objectives include: 
+The legacy program objectives included: 
  
 1) field a network of uplooking, wide-angle view cameras at a number of sites throughout the continental United States and other countries, 
  
