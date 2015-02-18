@@ -42,6 +42,17 @@ IFO Sources
 http://neo.jpl.nasa.gov/ca/
 http://spaceweather.com/flybys/flybys.php?zip=33129
 
+  
+Similar Projects in various stages of development/deployment
+  
+https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs
+  
+Project Sponsors:
+
+
+
+
+
  
 
 
