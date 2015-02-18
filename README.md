@@ -2,15 +2,13 @@
 
 A next generation sky phenomena detection nework. Providing an affordable open source hardware/software solution to detect, report and analyze earth sky phenomena.
 
-SkyScan Phase 1 Objectives: 
+SkyScan Phase 1 Objectives, getting started:
 
         Build the legacy solution as defined by Skysentinel build guide using provided Windows binaries
         Build Linux binaries from the available C and Python source code.
         Deploy legacy solution
 
-SkyScan Phase 2 Objectives:
-
-Explore redesign and integration using emerging technologies:
+SkyScan Phase 2 Objectives, explore redesign and integration using emerging technologies:
 
         Aurduino based prototying sensors (IR, thermal, magnetometor, spectrometers, etc...)
         Embeded chip based image processing and detection
