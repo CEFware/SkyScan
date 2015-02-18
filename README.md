@@ -17,7 +17,7 @@ The legacy program objectives included:
 New Mexico State University's Klipsch School of Electrical and Computer Engineering, Las Cruces, NM, established the current network under a grant from the Department of Energy (DOE). That work has now been transfered to Space Coast Intelligent Solutions (SCIS) Melbourne, FL as part of an informal technology transfer plan and is now known as SKYSENTINEL.
 
 
-Legacy System References:
+Legacy Meteor Tracking System References:
 
 http://goskysentinel.com/docs/skysentinel_guide.pdf
 http://skysentinel.nmsu.edu/allsky/
@@ -42,10 +42,10 @@ IFO Sources
 http://neo.jpl.nasa.gov/ca/
 http://spaceweather.com/flybys/flybys.php?zip=33129
 
+Related/Similar Projects in various stages of development/deployment
   
-Similar Projects in various stages of development/deployment
-  
-https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs
+https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs  
+http://hackaday.com/2012/03/16/automated-sky-tracking-to-catch-ufos/  
   
 SkyScan Project Sponsors:
  
