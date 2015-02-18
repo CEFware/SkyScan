@@ -27,13 +27,10 @@ Sandia National Laboratories developed an all sky camera system intended to moni
   
 The legacy program objectives included: 
 
-                field a network of uplooking, wide-angle view cameras at a number of sites throughout the continental United States and other countries, 
-                         
-                develop the network to access/archive data and make the data available for processing and analysis by interested parties, 
-                         
-                develop software tools for calibration, removal of detector effects and anomalies, automatic event detection and correlation among stations, and automatic trajectory computation, and 
-                
-                develop a companion multi-band detector for the all-sky sensors to improve the diagnostic capability of the camera network.
+        field a network of uplooking, wide-angle view cameras at a number of sites throughout the continental United States and other countries
+        develop the network to access/archive data and make the data available for processing and analysis by interested parties,
+        develop software tools for calibration, removal of detector effects and anomalies, automatic event detection and correlation among stations, and automatic trajectory computation, and 
+        develop a companion multi-band detector for the all-sky sensors to improve the diagnostic capability of the camera network.
          
  
 New Mexico State University's Klipsch School of Electrical and Computer Engineering, Las Cruces, NM, established the current network under a grant from the Department of Energy (DOE). That work has now been transfered to Space Coast Intelligent Solutions (SCIS) Melbourne, FL as part of an informal technology transfer plan and is now known as SKYSENTINEL.
