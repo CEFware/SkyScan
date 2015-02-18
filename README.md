@@ -4,21 +4,22 @@ A next generation sky phenomena detection nework. Providing an affordable open s
 
 SkyScan Phase 1 Objectives: 
 
-Build the legacy solution as defined by Skysentinel build guide using provided Windows binaries
-Build Linux binaries from the available C and Python source code.
-Deploy legacy solution
+        Build the legacy solution as defined by Skysentinel build guide using provided Windows binaries
+        Build Linux binaries from the available C and Python source code.
+        Deploy legacy solution
 
 SkyScan Phase 2 Objectives:
 
-Using Phase 1 as a baseline comparison,  explore integration of emerging technologies:
+Explore redesign and integration using emerging technologies:
 
-    Aurduino based 
-    Ability to integrate diverse sensors (IR, thermal, magnetometor, spectrometers, etc...)  
-    Autoguide pointing of cameras for increased magnification  
-    IoT (Internet of Things) ready IPv6 connection  
-    Alternative power sources (solar, wind, etc...)  
-    Diverse decentralized data storage and computing (MaidSafe, BOINC, etc...)   
-    Agregation and modeling of divergent big data sources  
+        Aurduino based prototying sensors (IR, thermal, magnetometor, spectrometers, etc...)
+        Embeded chip based image processing and detection
+        Rasberry Pi computers for remote installations
+        Autoguide pointing of cameras for increased magnification  
+        IoT (Internet of Things) ready IPv6 connection  
+        Alternative power sources (solar, wind, etc...)  
+        Use of decentralized data storage and computing (MaidSafe, BOINC, etc...)   
+        Agregation and modeling with divergent big data sources for analysis 
 
 
 
