@@ -48,10 +48,10 @@ Similar Projects in various stages of development/deployment
 https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs
   
 Project Sponsors:
-
- http://www.floridamufon.org
- http://ufocoin.co
- http://CEFnow.org
+ 
+http://www.floridamufon.org   
+http://ufocoin.co   
+http://CEFnow.org  
 
   
 
