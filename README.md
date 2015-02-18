@@ -49,9 +49,9 @@ https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicals
   
 Project Sponsors:
 
-http://www.floridamufon.org
-http://ufocoin.co
-http://CEFnow.org
+ http://www.floridamufon.org
+ http://ufocoin.co
+ http://CEFnow.org
 
   
 
