@@ -15,7 +15,8 @@ SkyScan Phase 2 Objectives, explore redesign and integration using emerging tech
         Rasberry Pi computers for remote installations
         Autoguide pointing of cameras for increased magnification  
         IoT (Internet of Things) ready IPv6 connection  
-        Alternative power sources (solar, wind, etc...)  
+        Alternative power sources (solar, wind, etc...)
+        Integration of UFO Tipper Bot for rewards via bitcoin alt blockchain(s)
         Use of decentralized data storage and computing (MaidSafe, BOINC, etc...)   
         Agregation and modeling with divergent big data sources for analysis 
 
