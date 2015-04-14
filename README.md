@@ -67,11 +67,6 @@ Related/Similar Projects in various stages of development/deployment
 https://www.indiegogo.com/projects/project-heimdal-find-a-fallen-star#technicalspecs  
 http://hackaday.com/2012/03/16/automated-sky-tracking-to-catch-ufos/  
   
-SkyScan Project Sponsors:
- 
-http://www.floridaMUFON.org   
-http://ufocoin.co   
-http://CEFnow.org  
 
   
 
